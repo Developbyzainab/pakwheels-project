@@ -539,10 +539,10 @@ const news = [
 ];
 
 const newsList = [
-  { title: "Europe’s EV Milestone: Electric Cars Overtake Gas Sales", date: "Jan 27, 2026", image: "/news/ev.jpg", link: "/news/ev" },
-  { title: "Pakistan’s Auto Industry Is Officially Booming", date: "Jan 27, 2026", image: "/news/auto.jpg", link: "/news/auto" },
-  { title: "ADAC 2026 Winter Test: EVs Lose Up to 50% Range in Cold", date: "Jan 27, 2026", image: "/news/winter.jpg", link: "/news/winter" },
-  { title: "CM Murad Opens Rs6.1 Billion Korangi Causeway Bridge", date: "Jan 27, 2026", image: "/news/bridge.jpg", link: "/news/bridge" },
+  { title: "Europe’s EV Milestone: Electric Cars Overtake Gas Sales", date: "Jan 27, 2026", image: "/s7.jpg", link: "/news/ev" },
+  { title: "Pakistan’s Auto Industry Is Officially Booming", date: "Jan 27, 2026", image: "/s5.jpg", link: "/news/auto" },
+  { title: "ADAC 2026 Winter Test: EVs Lose Up to 50% Range in Cold", date: "Jan 27, 2026", image: "/s6.png", link: "/news/winter" },
+  { title: "CM Murad Opens Rs6.1 Billion Korangi Causeway Bridge", date: "Jan 27, 2026", image: "/s12.webp", link: "/news/bridge" },
 ];
 
 const events = [
@@ -618,10 +618,10 @@ const sections = [
 ];
 
 const eventList = [
-  { title: "Faisalabad, PakWheels Car Mela is Coming", date: "Jan 20, 2026", image: "/events/faisalabad.png", link: "/events/faisalabad" },
-  { title: "Multan, PakWheels Car Mela is Coming", date: "Jan 14, 2026", image: "/events/multan.png", link: "/events/multan" },
-  { title: "Don’t Miss Out – PakWheels Car Mela Is Live in Islamabad!", date: "Jan 11, 2026", image: "/events/live.png", link: "/events/islamabad-live" },
-  { title: "Islamabad, PakWheels Car Mela is Coming", date: "Jan 6, 2026", image: "/events/islamabad.png", link: "/events/islamabad" },
+  { title: "Faisalabad, PakWheels Car Mela is Coming", date: "Jan 20, 2026", image: "/s4.png", link: "/events/faisalabad" },
+  { title: "Multan, PakWheels Car Mela is Coming", date: "Jan 14, 2026", image: "/s1.png", link: "/events/multan" },
+  { title: "Don’t Miss Out – PakWheels Car Mela Is Live in Islamabad!", date: "Jan 11, 2026", image: "/s2.png", link: "/events/islamabad-live" },
+  { title: "Islamabad, PakWheels Car Mela is Coming", date: "Jan 6, 2026", image: "/s3.png", link: "/events/islamabad" },
 ];
 
 export default function Page() {
